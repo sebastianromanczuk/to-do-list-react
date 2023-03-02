@@ -2,7 +2,7 @@
 
 # DEMO:
 
-![To-do-list-react]((https://github.com/sebastianromanczuk/to-do-list-react/blob/main/Lista.gif)
+![To-do-list-react](https://github.com/sebastianromanczuk/to-do-list-react/blob/main/Lista.gif)
 
 #### Technologies used:
 
