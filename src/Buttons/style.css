@@ -1,0 +1,49 @@
+buttonsContainer {
+    padding: 0 20px 40px;
+}
+
+@media (max-width: 750px) {
+    .buttonsContainer {
+        padding-bottom: 0;
+    }
+}
+
+@media (max-width: 750px) {
+    .buttonsContainer {
+        margin: 0 auto;
+        display: grid;
+    }
+}
+
+.buttonsContainer--hidden {
+    display: none;
+}
+
+.buttons__button:disabled {
+    color: #ddd;
+}
+
+.buttons__button:hover:disabled {
+    color: #ddd;
+}
+
+.buttons__button {
+    background-color: transparent;
+    color: rgb(4, 199, 199);
+    border: none;
+    font-size: 19px;
+    padding-left: 40px;
+    transition: background-color 1s, .25s;
+}
+
+@media (max-width: 750px) {
+    .buttons__button {
+        padding: 0;
+        margin-bottom: 20px;
+    }
+}
+
+.buttons__button:hover {
+    cursor: pointer;
+    color: hsl(180, 100%, 35%);
+}
