@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+#TO-DO-LIST-REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# DEMO:
+
+![To-do-list-react]((https://github.com/sebastianromanczuk/to-do-list-react/blob/main/Lista.gif)
+
+#### Technologies used:
+
+## CSS
+
+## JAVASCRIPT
+
+## REACT.JS
+
+## HTML
+
+#The project is modified by enlarging the font, which is pleasing to the eye above all, please go to the demo and see for yourself. 
 
 ## Available Scripts
 
