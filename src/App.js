@@ -16,6 +16,7 @@ const getInitialHiddenTaskStatus = () => {
     return hiddenTaskStatusInLocalStorage === null ? false : hiddenTaskStatusInLocalStorage;
 };
 
+
 function App() {
     const [hiddenTaskStatus, setHiddenTaskStatus] = React.useState(getInitialHiddenTaskStatus);
 
