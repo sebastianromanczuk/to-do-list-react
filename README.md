@@ -2,6 +2,8 @@
 
 # DEMO: https://sebastianromanczuk.github.io/to-do-list-react/
 
+# The application shows a list of tasks that you need to enter in general your preferences who has them, you can delete, hide or select all
+
 ![To-do-list-react](https://github.com/sebastianromanczuk/to-do-list-react/blob/main/Lista.gif)
 
 #### Technologies used:
